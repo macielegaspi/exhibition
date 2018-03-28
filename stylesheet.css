@@ -164,3 +164,10 @@
 	background-blend-mode: lighten;
 	z-index: -2;
 }
+.backgroundds {
+	background:url('images/historybackground.jpg');
+	background-color: rgba(255,255,255,0.36);
+	background-size: 100% 100%;
+	background-blend-mode: lighten;
+	z-index: -2;
+}
